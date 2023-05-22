@@ -42,12 +42,13 @@ a {
   }
 
   .cheese .image{
-    width:100% ;
+    width: 1200px; ;
     height: auto;   
   }
 
   .cheese .p{
     position: absolute;
+    width: auto;
     margin-bottom: 30px;
     top: 30%;
     left: 50%;
@@ -127,6 +128,7 @@ text-align: center;
     display:flex ; 
     justify-content: center;
     align-items: flex-start;
+    width: 1200px;
 }
 
 .flexbox .image{
